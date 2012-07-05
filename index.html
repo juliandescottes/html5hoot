@@ -1,74 +1,131 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<title>HTML 5H007</title>
+		<link rel="stylesheet" type="text/css" href="css/nyump.css"/>
+		<link rel="shortcut icon" href="favicon.ico" />
+		<script type="text/javascript">
+			window.Aria = {
+				rootFolderPath: window.location.href.indexOf('sandbox') != -1 ? '/sandbox/lib/' : '/lib/'
+			};
+			
+			var loadScript = function (src) {document.write('<scr' + 'ipt type="text/javascript" src="'+Aria.rootFolderPath + src+'"></scri' + 'pt>');}
+			
+			loadScript('aria/aria-templates-1.1-24.js');
+			loadScript('buzz/buzz.js');
+			loadScript('Stats.js');
+		</script>
+		<style >
+			html, body {
+				background-color : #1c1c1c;
+				background-image : url('resources/img/sitebg.png');
+			}
+			@font-face {
+			    font-family: 'Game';
+			    src: url('resources/font/prophit_cell/V5PRC___.TTF');
+			}
+        </style>
 
-  <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Html5hoot : A small shoot em up built with aria templates " />
+	</head>
+	<body>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-    <title>Html5hoot</title>
-  </head>
+		<div class="titleContainer left">
+			H<wbr/>T<wbr/>M<wbr/>L
+		</div>
+		<div id="gameContainer" class="basic-container" style="font-family:Game"></div>
+			
+		<div class="titleContainer right">
+			5<wbr/>H<wbr/>0<wbr/>0<wbr/>7
+		</div>
 
-  <body>
+		<script type="text/javascript">
+			var dev = window.location.href.indexOf('localhost') != -1;
+			if (dev) {
+				aria.core.DownloadMgr.updateRootMap({
+					aria : {
+						"*" : '/lib/'
+					},
+					"*" : ""
+				});
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/juliandescottes/html5hoot">View on GitHub</a>
-
-          <h1 id="project_title">Html5hoot</h1>
-          <h2 id="project_tagline">A small shoot em up built with aria templates </h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/juliandescottes/html5hoot/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/juliandescottes/html5hoot/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>Welcome to GitHub Pages.</h3>
-
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
-
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
-
-<h3>Designer Templates</h3>
-
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
-
-<h3>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Html5hoot maintained by <a href="https://github.com/juliandescottes">juliandescottes</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
-
-  </body>
+				var bkpGetURLWithTimestamp = aria.core.DownloadMgr.getURLWithTimestamp;
+				aria.core.DownloadMgr.getURLWithTimestamp = function (url, force) {
+					return bkpGetURLWithTimestamp.apply(aria.core.DownloadMgr, [url, true]);
+				};
+			} else {
+				aria.core.DownloadMgr.updateUrlMap({
+					games : { 
+						"**" : "games.js"
+					} 
+				});
+			}
+			Aria.load({
+				classes : ['games.shoot.ShootLoader'],
+				oncomplete : function () {
+					if (dev)
+						document.getElementById('htmlshoot-console').style.display = 'block';
+					new games.shoot.ShootLoader();
+				}
+			});
+		</script>
+		<div class="topRight commands">
+			<div id="stats" class="basic-container">
+				<table>
+					<thead>
+						<tr>
+							<th>Step</th>
+							<th class="max">max</th>
+							<th class="avg">avg</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>collide</td>
+							<td id="collide.max">0</td>
+							<td id="collide.avg">0</td>
+						</tr>
+						<tr>
+							<td>update</td>
+							<td id="update.max">0</td>
+							<td id="update.avg">0</td>
+						</tr>
+						<tr>
+							<td>draw</td>
+							<td id="draw.max">0</td>
+							<td id="draw.avg">0</td>
+						</tr>
+						<tr>
+							<td>loop</td>
+							<td id="loop.max">0</td>
+							<td id="loop.avg">0</td>
+						</tr>
+						<tr>
+							<td>fps</td>
+							<td colspan="2" id="fps">0</td>
+						</tr>
+						<tr>
+							<td>entities</td>
+							<td colspan="2" id="entities">0</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div 
+				class="button" id="fullscreenButton" 
+				onclick="games.shoot.utils.Fullscreen.toggleFullscreen()"
+			>
+				Go Fullscreen !
+			</div>
+			<div 
+				class="button" id="playMusicButton" style="margin-top:10px;"
+				onclick="games.shoot.sound.MusicManager.playNext()">
+				&#9654; Play Music !
+			</div> 
+		</div>
+		<div id="htmlshoot-console" class="basic-container" style="display:none">
+			<div>&gt;&nbsp;...</div>
+		</div>
+	</body>
 </html>

@@ -1,0 +1,42 @@
+
+V5 Prophit
+----------------
+Instructions:
+
+
+++ Prophit (CELL) ++
+
+Optimum screen size is 19pt with anti-aliasing
+off.  Intended for use at large sizes.
+
+++ Prophit (DOT) ++
+
+Intended for use at large sizes.  Works well
+on screen set at 29pt, with anti-aliasing off.
+
+++ Prophit (FADING) ++
+
+Experiment.
+
+
+Notes:
+
+1. All memebers of the Prophit family work
+much better set in all-caps.
+
+
+---------------
+Usage:  This is a free font--you may use 
+this and other V5 fonts at will.  It may not 
+be sold, altered, or improperly credited,
+however.  All I ask is that you kindly inform 
+me if you find this font useful, and where
+you've used it.
+
+Enjoy,
+
+©2000 
+Roberto Christen
+rob@vfive.com
+
+

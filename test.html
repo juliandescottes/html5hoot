@@ -1,0 +1,65 @@
+<!DOCTYPE html5>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+	<title>Aria Tester</title>
+	<style>
+		html {
+			overflow : hidden;
+		}
+		body {
+			margin : 0px;
+			background-color : #FAFAFA;
+			font-family: tahoma,arial,helvetica,sans-serif;
+    		font-size: 11px;
+		}
+	</style>
+	<script type="text/javascript">
+		var ariaRootFolder = "lib/";
+		var version = "1.1-24";
+
+		// Aria Templates framework parameters
+		var Aria = {
+			memCheckMode : false, // checks that constructors and destructors are well called on all objects
+			debug : true
+		};
+		document.write('<scr' + 'ipt type="text/javascript" src="'+ariaRootFolder+'aria/aria-templates-' + version);document.write('.js"></scri' + 'pt>');
+		document.write('<scr' + 'ipt type="text/javascript" src="'+ariaRootFolder+'css/atdefskin-' + version);document.write('.js"></scri' + 'pt>');
+	</script>
+</head>
+<body >
+	<div id="root"></div>
+	<script type="text/javascript">
+		aria.core.DownloadMgr.updateRootMap({
+			"aria": {
+				"*" : "lib/"
+			},
+			"*" : ""
+		});
+		aria.core.AppEnvironment.setEnvironment({
+			contextualMenu:{enabled:true} // to get the right-click refresh menu
+		}, null, true);
+
+		var classpath = "aria.tester.runner.view.main.Main";
+		
+		var width = {min : 180};
+		var height = {min : 342};
+		
+		// set the minimum dimension of this page
+		Aria.setRootDim({
+			width: width,
+			height: height
+		});
+		
+		Aria.loadTemplate({
+			classpath:classpath,
+			div:"root", 
+			width: width,
+			height: height,
+			moduleCtrl: {
+				classpath: 'aria.tester.runner.ModuleController'
+			}
+		});
+	</script>
+</body>
+</html>
