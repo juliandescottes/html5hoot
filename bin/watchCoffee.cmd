@@ -1,0 +1,1 @@
+coffee -o ../games -cw ../games/coffee/

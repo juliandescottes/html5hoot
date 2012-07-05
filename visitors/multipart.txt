@@ -1,0 +1,59 @@
+// At the very start, even before any files have been packaged
+onStart: function(callback, config) {},
+
+// Before starting to package a set of files together
+onPackageStart: function(callback, config, packageFileObject) {},
+
+// Before a file is being inserted into a package
+onFileStart: function(callback, config, packageFileObject) {},
+
+// When inserting the content of a file into a package
+onFileContent: function(callback, config, fileObject) {},
+
+// After a file has been inserted into a package
+onFileEnd: function(callback, config, packageFileObject) {},
+
+// After having packaged a set of files together
+onPackageEnd: function(callback, config, packageFileObject) {},
+
+// At the end, when all packages are done
+onEnd: function(callback, config) {}
+var md5 = require("./md5.js");
+var jsmin = require("./jsmin.js");
+
+
+module.exports.onFileContent = function(fileName, fileContent, config, userPackages) {
+    if(config.jsmin && fileName.substring(fileName.lastIndexOf(".")) === ".js") {
+        return jsmin.getMinifiedContent(fileContent, config.mangle);
+    } else {
+        return fileContent;
+    }
+};
+
+module.exports.onPackageStart = function(fileName, config, userPackages) {
+    return "// Package: " + fileName + "\n";
+};
+
+module.exports.onPackageEnd = function(fileName, config, userPackages) {
+    return "";
+};
+
+module.exports.onFileStart = function(fileName, packageFileName, config, userPackages) {
+    return "\n\n// File: " + fileName + "\n";
+};
+
+module.exports.onFileEnd = function(fileName, packageFileName, config, userPackages) {
+    return "";
+};
+
+module.exports.onPackageName = function(fileName, fileContent, config, userPackages) {
+    if(config.md5) {
+        return md5.getVersionedFileName(fileName, fileContent);
+    } else {
+        return fileName;
+    }
+};
+
+module.exports.onMultiMergeStart = function(multiMergeConfig, userPackages) {};
+
+module.exports.onMultiMergeEnd = function(multiMergeConfig, userPackages) {};

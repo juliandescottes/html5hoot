@@ -1,0 +1,1984 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isOnEntity"
+			],
+			[
+				"creat",
+				"createEntityAt"
+			],
+			[
+				"get",
+				"getEntityAtCoords"
+			],
+			[
+				"ass",
+				"asset"
+			],
+			[
+				"ori",
+				"origY"
+			],
+			[
+				"inpu",
+				"input"
+			],
+			[
+				"MOU",
+				"MOUSELEFT"
+			],
+			[
+				"MOUSE",
+				"MOUSE_1"
+			],
+			[
+				"input",
+				"inputRecorder"
+			],
+			[
+				"engi",
+				"engineClock"
+			],
+			[
+				"create",
+				"createContext"
+			],
+			[
+				"gam",
+				"gameContainerId"
+			],
+			[
+				"onTou",
+				"onTouchMove"
+			],
+			[
+				"move",
+				"movementOrders"
+			],
+			[
+				"ship",
+				"shipPosition"
+			],
+			[
+				"game",
+				"gameContainer"
+			],
+			[
+				"remov",
+				"removeEventAfter100ms"
+			],
+			[
+				"__shi",
+				"__shipPilot"
+			],
+			[
+				"rec",
+				"recorderHasStartInput"
+			],
+			[
+				"on",
+				"onTouchMove"
+			],
+			[
+				"ga",
+				"gameTitle"
+			],
+			[
+				"upda",
+				"updatePosition"
+			],
+			[
+				"random",
+				"randomFactor"
+			],
+			[
+				"getPo",
+				"getPowerupCountdown"
+			],
+			[
+				"Po",
+				"__powerupCountdown"
+			],
+			[
+				"bu",
+				"__bulletCount"
+			],
+			[
+				"pow",
+				"powerdown"
+			],
+			[
+				"power",
+				"__powerUpTime"
+			],
+			[
+				"po",
+				"__powerUpTime"
+			],
+			[
+				"def",
+				"__defaultGun"
+			],
+			[
+				"coll",
+				"collectPowerUp"
+			],
+			[
+				"pause",
+				"pauseEntity"
+			],
+			[
+				"load",
+				"loadingEngine"
+			],
+			[
+				"fr",
+				"frameDuration"
+			],
+			[
+				"__on",
+				"__onKeyUp"
+			],
+			[
+				"en",
+				"entitiesByLayer"
+			],
+			[
+				"sor",
+				"sortedEntities"
+			],
+			[
+				"__over",
+				"__overlayEngine"
+			],
+			[
+				"base",
+				"__baseEngine"
+			],
+			[
+				"over",
+				"overlayCanvas"
+			],
+			[
+				"cre",
+				"createCanvasContainer"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"add",
+				"addPoints"
+			],
+			[
+				"__con",
+				"__controllers"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"Sh",
+				"ShootEnemyGenerator"
+			],
+			[
+				"ny",
+				"NyumpEngine"
+			],
+			[
+				"pla",
+				"playerController"
+			],
+			[
+				"Over",
+				"overlayEngine"
+			],
+			[
+				"text",
+				"textBaseline"
+			],
+			[
+				"DE",
+				"DEFAULT_TEXTBASELINE"
+			],
+			[
+				"overl",
+				"overlayEngine"
+			],
+			[
+				"__",
+				"__forEach"
+			],
+			[
+				"tra",
+				"trackUrl"
+			],
+			[
+				"trac",
+				"trackIndex"
+			],
+			[
+				"tr",
+				"tracks"
+			],
+			[
+				"__init",
+				"__initializeForces"
+			],
+			[
+				"nex",
+				"nextBoolean"
+			],
+			[
+				"test",
+				"testSuiteDefinition	testSuiteDefinition"
+			],
+			[
+				"__upda",
+				"__updatePosition"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"isI",
+				"isInX"
+			],
+			[
+				"vre",
+				"vreuPositionEngine"
+			],
+			[
+				"scal",
+				"scale"
+			],
+			[
+				"size",
+				"sizeY"
+			],
+			[
+				"sca",
+				"scaleX"
+			],
+			[
+				"x",
+				"__xScale"
+			],
+			[
+				"ra",
+				"raiseArg"
+			],
+			[
+				"my",
+				"myInstance"
+			],
+			[
+				"eve",
+				"eventName"
+			],
+			[
+				"e",
+				"eventName"
+			],
+			[
+				"class",
+				"classA"
+			],
+			[
+				"first",
+				"firstNode"
+			],
+			[
+				"next",
+				"nextNode"
+			],
+			[
+				"te",
+				"textAlign"
+			],
+			[
+				"enti",
+				"entity"
+			],
+			[
+				"phy",
+				"physicalEntity"
+			],
+			[
+				"__hit",
+				"__hitbox2"
+			],
+			[
+				"hi",
+				"hitbox1"
+			],
+			[
+				"__phys",
+				"__physicalEntity2"
+			],
+			[
+				"collis",
+				"collisionBuckets"
+			],
+			[
+				"colli",
+				"collisions"
+			],
+			[
+				"ent",
+				"entityBuckets"
+			],
+			[
+				"eni",
+				"entity"
+			],
+			[
+				"__c",
+				"__collisionBucketBuilder"
+			],
+			[
+				"tota",
+				"totalHeight"
+			],
+			[
+				"__cre",
+				"__creatEmptyBuckets"
+			],
+			[
+				"op",
+				"optimizeSpeed"
+			],
+			[
+				"P",
+				"Pythagore"
+			],
+			[
+				"spe",
+				"Speed"
+			],
+			[
+				"__en",
+				"__endY"
+			],
+			[
+				"spee",
+				"speedY"
+			],
+			[
+				"F",
+				"FONT_SIZE"
+			],
+			[
+				"high",
+				"__highscore"
+			],
+			[
+				"__co",
+				"__color"
+			],
+			[
+				"__f",
+				"__fontSize"
+			],
+			[
+				"fon",
+				"fontFamily"
+			],
+			[
+				"DEf",
+				"DEFAULT_SIZE"
+			],
+			[
+				"FONT",
+				"FONT_COLOR"
+			],
+			[
+				"de",
+				"deltaTime"
+			],
+			[
+				"__spe",
+				"__speedX"
+			],
+			[
+				"__s",
+				"__speedX"
+			],
+			[
+				"Ex",
+				"EXPIRATION_TIME"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"clas",
+				"classpath"
+			],
+			[
+				"obj",
+				"object1"
+			],
+			[
+				"_en",
+				"__endX"
+			],
+			[
+				"max",
+				"maxSpeed"
+			],
+			[
+				"ma",
+				"maxSpeed"
+			],
+			[
+				"sta",
+				"startX"
+			],
+			[
+				"start",
+				"startY"
+			],
+			[
+				"star",
+				"startY"
+			],
+			[
+				"__dra",
+				"__drawBeamBody"
+			],
+			[
+				"a",
+				"animatedSprite"
+			],
+			[
+				"fram",
+				"framesheet"
+			],
+			[
+				"frame",
+				"frameDuration"
+			],
+			[
+				"__fram",
+				"__frameWidth"
+			],
+			[
+				"frames",
+				"framesheet"
+			],
+			[
+				"sprit",
+				"spriteIndex"
+			],
+			[
+				"__e",
+				"__elapsedTime"
+			],
+			[
+				"__get",
+				"__getFrame"
+			],
+			[
+				"Spr",
+				"SpriteUtils"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"fra",
+				"frameWidth"
+			],
+			[
+				"__fra",
+				"__frameWidth"
+			],
+			[
+				"__sprit",
+				"__spriteRenderer"
+			],
+			[
+				"el",
+				"__elapsedTime"
+			],
+			[
+				"image",
+				"imageObject"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "games/coffee/audio/entity/SoundGenerator.coffee",
+			"settings":
+			{
+				"buffer_size": 1171,
+				"line_ending": "Windows",
+				"name": "SoundGenerator.coffee"
+			}
+		},
+		{
+			"file": "games/common/entity/DestroyableEntity.js",
+			"settings":
+			{
+				"buffer_size": 474,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Aria.classDefinition\n	$classpath : 'games.audio.AudioLoader'\n	$extends : 'games.common.BaseObject'\n	$dependencies : [\n		'games.common.input.MouseRecorder'\n		'games.shoot.engine.ExtendedEngine'\n		'games.common.clock.EngineClock'\n		'games.audio.entity.SoundGenerator'\n		'games.common.asset.AssetManager'\n		'games.audio.Assets'\n		'games.common.hitbox.SquareHitbox'\n	]\n	$statics : \n		MOUSELEFT : 'MOUSE_0'\n		MOUSERIGHT : 'MOUSE_2'\n	$constructor : (gameContainerId) ->\n		@$BaseObject.constructor.call @\n		@gameContainer = document.getElementById gameContainerId\n		context = @createContext()\n		@inputRecorder = new @$MouseRecorder\n		@inputRecorder.start()\n\n		@engine = @$ExtendedEngine.getDefaultImplementation context\n		@engineClock = @$EngineClock.getDefaultImplementation @engine\n\n		@engine.addController @\n\n		games.shoot.AssetManager = @$AssetManager.getDefaultImplementation()\n		games.shoot.AssetManager.setRootFolder 'resources/img/' \n		@assetManager = games.shoot.AssetManager\n\n		@assetManager.queueDownloads @$Assets\n\n		@assetManager.download\n			fn :->\n				@engineClock.start()\n			scope : @\n\n	$prototype :\n		update : (delta) ->\n			@inputRecorder.update()\n			input = @inputRecorder.getInputByCode @MOUSELEFT \n			if input?.isCompleted() then @onLeftClick input\n\n		onLeftClick : (input) ->\n			[x, y] = @translateCoordinates input.getX(), input.getY()\n			entity = @getEntityAtCoords x, y\n			if entity then entity.makeNoise() else @createEntityAt x, y  \n\n		createEntityAt : (x, y) ->\n			soundGenerator = new this.$SoundGenerator x, y\n			@engine.addEntity soundGenerator\n			console.log \"Added Entity at : X : '#{x}' and Y : '#{y}'\"\n\n		getEntityAtCoords : (x, y) ->\n			entities = @engine.getEntities().filter (entity) =>\n				@isOnEntity x, y, entity\n			entities[0]\n\n		translateCoordinates : (x, y) ->\n			origX = @gameContainer.getBoundingClientRect().left\n			origY = @gameContainer.getBoundingClientRect().top\n			[x - origX, y - origY]\n\n		createContext :->\n			canvas = document.createElement 'canvas' \n\n			canvas.width = 480\n			canvas.height = 640\n			\n			container = document.createElement 'div'\n			container.className = \"canvasContainer\"\n\n			container.appendChild canvas\n			@gameContainer.appendChild container\n			canvas.getContext '2d'\n\n		isOnEntity : (x, y, entity) ->\n			entity.getHitbox().intersects(new @$SquareHitbox x,y,0,0)\n\n		conflictsWithEntity : (x, y, entity) ->\n			entity.getHitbox().intersects(new @$SquareHitbox x-16,y-16,32,32)",
+			"file": "games/coffee/audio/AudioLoader.coffee",
+			"file_size": 2520,
+			"file_write_time": 129815008309420077,
+			"settings":
+			{
+				"buffer_size": 2439,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "games/shoot/asset/Assets.js",
+			"settings":
+			{
+				"buffer_size": 770,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "games/coffee/audio/Assets.coffee",
+			"settings":
+			{
+				"buffer_size": 124,
+				"line_ending": "Windows",
+				"name": "Assets.coffee"
+			}
+		},
+		{
+			"file": "games/common/input/MouseInput.js",
+			"settings":
+			{
+				"buffer_size": 579,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "games/common/input/MouseRecorder.js",
+			"settings":
+			{
+				"buffer_size": 1229,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "games/coffee/common/input/MouseInput.coffee",
+			"settings":
+			{
+				"buffer_size": 292,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "games/coffee/common/sprite/SpriteBuilder.coffee",
+			"settings":
+			{
+				"buffer_size": 571,
+				"line_ending": "Windows",
+				"name": "SpriteBuilder.coffee"
+			}
+		},
+		{
+			"file": "games/common/sprite/Sprite.js",
+			"settings":
+			{
+				"buffer_size": 2544,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3478,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "games/coffee/common/engine/GameEngine.coffee",
+			"settings":
+			{
+				"buffer_size": 1395,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "games/coffee/shoot/engine/ExtendedEngine.coffee",
+			"settings":
+			{
+				"buffer_size": 940,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "games/shoot/collision/ColliderResolverImpl.js",
+			"settings":
+			{
+				"buffer_size": 2802,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: classDefinition"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"disaa",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"User",
+				"Preferences: Key Bindings - User"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Julian/Dropbox/htmlshoot/lib/aria/modules/queuing/AriaSyncSessionQueuing_dfb7c9abf71bc25e3c39bf9c45e54308.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/common/hitbox/SquareHitbox.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/shoot/enemy/doni/Doni.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/shoot/collision/collider/BeamEnemyCollider.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/shoot/collision/collider/BulletEnemyColliderTest.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/shoot/collision/collider/BulletEnemyCollider.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/shoot/collision/collider/BulletShipColliderTest.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/shoot/collision/collider/LootShipCollider.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/shoot/collision/collider/TractableMagnetCollider.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/shoot/collision/ColliderResolverImpl.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/common/sprite/SpriteBuilder.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/shoot/engine/ShootEngine.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/coffee/shoot/controller/level/LevelController.coffee",
+		"/C/Users/Julian/Dropbox/htmlshoot/lib/Stats.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/coffee/audio/AudioLoader.coffee",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/common/input/MouseRecorder.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/audio/AudioLoader.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/common/input/InputRecorder.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/common/input/DefaultInput.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/coffee/common/input/MouseInput.coffee",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/shoot/ShootLoader.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/shoot/controller/loading/LoadingController.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/coffee/shoot/controller/loading/LoadingController.coffee",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/shoot/enemy/AirEnemy.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/coffee/common/asset/AssetLoader.coffee",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/coffee/shoot/clock/StatsAwareEngineClock.coffee",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/shoot/sound/MusicManager.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/index.html",
+		"/C/Users/Julian/Dropbox/htmlshoot/audio.html",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/common/engine/GameEngine.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/coffee/common/engine/GameEngine.coffee",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/common/clock/EngineClock.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/coffee/shoot/engine/ExtendedEngine.coffee",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/common/input/KeyboardRecorder.js",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/shoot/controller/level/LevelController.js",
+		"/C/Users/Julian/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Julian/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Julian/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Julian/Dropbox/htmlshoot/games/coffee/shoot/engine/GameEngine.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/ship/CollectedPoints.js",
+		"/C/Users/Julian/Dropbox/slideshow/data/slide2.json",
+		"/C/Users/Julian/Dropbox/slideshow/css/slideshow.css",
+		"/C/Users/Julian/Dropbox/slideshow/templates/normal.html",
+		"/C/Users/Julian/Dropbox/slideshow/data/slide10.json",
+		"/C/Users/Julian/Dropbox/slideshow/data/slide11.json",
+		"/C/Users/Julian/Dropbox/slideshow/data/snippet.js",
+		"/C/Users/Julian/Dropbox/slideshow/data/slide12.json",
+		"/C/Users/Julian/Dropbox/slideshow/data/slide13.json",
+		"/C/Users/Julian/Dropbox/slideshow/data/slide14.json",
+		"/C/Users/Julian/Dropbox/slideshow/data/slide16.json",
+		"/C/Users/Julian/Dropbox/slideshow/data/slide15.json",
+		"/C/Users/Julian/Dropbox/slideshow/data/slide6.json",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/overlay/PowerupCountdown.js",
+		"/C/Users/Julian/Dropbox/sandbox/.packman",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/common/utils/UserAgent.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/shoot/ship/TouchShipPilot.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/common/input/TouchInputRecorder.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/ship/Ship.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/player/PlayerController.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/utils/UserAgent.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/shoot/controller/loading/LoadingController.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/input/InputRecorder.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/input/BasicInputRecorder.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/input/KeyboardRecorder.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/ship/TouchShipPilot.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/input/MouseRecorder.js",
+		"/C/Users/Julian/Dropbox/sandbox/index.html",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/shoot/ship/ShipPilot.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/ship/ShipMovementEngine.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/input/TouchInputRecorder.js",
+		"/C/Users/Julian/Dropbox/sandbox/css/nyump.css",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/shoot/utils/Console.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/shoot/controller/loading/InviteText.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/engine/GameEngine.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/common/animation/Animation.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/sprite/AnimatedSprite.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/common/input/StandardKeyboardRecorder.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/controller/level/LevelController.js",
+		"/C/Users/Julian/Dropbox/sandbox/lib/aria-templates-full-1.1-21/aria/guide/tutorials/tplinheritance/step3/LibChildOverridden.tml",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/player/PlayerControllerTest.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/ship/ShipPilot.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/utils/RecorderFactory.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/ship/ShipInputRecorder.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/input/StandardKeyboardRecorder.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/ship/DefaultShipGun.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/enemy/doni/Doni.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/entity/loot/LootImpl.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/overlay/Overlay.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/overlay/Points.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/text/Text.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/ShootLoader.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/shoot/overlay/PlusPoints.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/shoot/engine/ExtendedEngine.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/shoot/controller/loading/PressEnter.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/shoot/controller/loading/GameTitle.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/Stats.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/utils/GameType.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/controller/LoadingController.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/clock/EngineClock.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/common/BaseObject.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/common/clock/AnimationLoop.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/animation/Animation.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/clock/AnimationLoop.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/ShootController.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/engine/ShootEngine.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/sound/MusicManager.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/overlay/OverlayEntity.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/engine/OverlayEngine.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/ship/ShipBullet.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/shoot/utils/Lol.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/ship/ShipExplosionBuilder.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/enemy/EnemyExplosionBuilder.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/ship/Beam.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/entity/loot/powerup/Power.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/sprite/AnimatedSpriteBuilder.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/shoot/controller/level/LevelController.coffee",
+		"/C/Users/Julian/Dropbox/sandbox/resources/img/coinAnimated.pdn",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/enemy/vreu/Vreu.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/entity/loot/coin/Coin.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/entity/EntitySorter.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/sprite/SpritePattern.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/collision/CollisionEngineImpl.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/enemy/GroundEnemy.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/common/asset/AssetManager.js",
+		"/C/Users/Julian/Dropbox/sandbox/lib/aria/tester/index.html",
+		"/C/Users/Julian/Dropbox/sandbox/games/watchCoffee.cmd",
+		"/C/Users/Julian/Dropbox/sandbox/games/shoot/controller/loading/PressEnter.js",
+		"/C/Users/Julian/Dropbox/sandbox/games/coffee/common/engine/Engine.coffee"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Julian\\Dropbox\\htmlshoot\\games\\common",
+			"C:\\Users\\Julian\\Dropbox\\htmlshoot\\games\\shoot",
+			"C:\\Users\\Julian\\Dropbox\\htmlshoot\\games\\common",
+			"C:\\Users\\Julian\\Dropbox\\htmlshoot\\games\\shoot",
+			"C:\\Users\\Julian\\Dropbox\\sandbox\\games",
+			"C:\\Users\\Julian\\Dropbox\\sandbox\\games\\",
+			"C:\\Users\\Julian\\Dropbox\\sandbox\\games\\commoncoffee",
+			"C:\\Users\\Julian\\Dropbox\\sandbox\\games",
+			"C:\\Users\\Julian\\Dropbox\\sandbox\\games\\nyump",
+			"C:\\Users\\Julian\\Dropbox\\sandbox\\games",
+			"C:\\Users\\Julian\\Dropbox\\sandbox\\games\\nyump",
+			"C:\\Users\\Julian\\Dropbox\\sandbox\\games",
+			"C:\\Users\\Julian\\Dropbox\\sandbox\\games\\nyump",
+			"C:\\Users\\Julian\\Dropbox\\sandbox\\games",
+			"C:\\Users\\Julian\\Dropbox\\sandbox\\games\\nyump",
+			"C:\\Users\\Julian\\Dropbox\\sandbox\\games",
+			"C:\\Users\\Julian\\Dropbox\\sandbox",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"games.shoot.utils.Console",
+			"this.__deltaTime",
+			"Timer",
+			"input",
+			"buildFromUrlAndTransform",
+			"isOn",
+			" function () {",
+			"__",
+			"raiseEvent",
+			"utf",
+			"this.",
+			"getDefaultEngine",
+			".__timer",
+			"_getEntities",
+			"img/",
+			"this.",
+			"ShipController",
+			"line",
+			"delete",
+			"();",
+			"ShootEnemyGenerator",
+			"EngineDrawer",
+			"Environment",
+			"Stats",
+			"Pause",
+			"MusicManager",
+			"MusicManager\n",
+			"Nyump",
+			"nyump",
+			"getSpeed",
+			"GroundEnemy",
+			"engine",
+			"js",
+			"getAsset",
+			"__draw",
+			"__engineDrawer",
+			"getEngine",
+			"sandb",
+			"playM",
+			"buzz",
+			"them",
+			"constructor",
+			"AnimatedSpriteBuilder",
+			"isReleased",
+			");",
+			"500",
+			"80",
+			"Coin",
+			"games.nyump.entity.Enemy",
+			"EnemyExplosion",
+			"entity.Beam",
+			"DoniEngine",
+			"5",
+			".prototype.",
+			";",
+			"doni",
+			"BULLET",
+			"AnimatedSpriteBuilder",
+			"return",
+			"buildForSpriteUrl",
+			"__yspeed",
+			"));",
+			"endY",
+			"this.$Sprite",
+			"SpriteRenderer",
+			" () {})",
+			"rotateSprite",
+			"DestroyableEntity",
+			"DestroyableEntityImpl",
+			"')",
+			"__recorder",
+			"__engineDrawer",
+			"tra",
+			"		},",
+			"amadeus.samples.games",
+			"GameActionTranslator",
+			"isInstanceOf",
+			"			);",
+			"getHitbox",
+			"collision",
+			"parentTest",
+			"class",
+			"defaultTestTimeout",
+			"setTestTimeout",
+			"_timeoutTimer",
+			"0000",
+			".destr",
+			"MockedRecorder",
+			"console.log",
+			"	],",
+			"GameEngineTestMockedEntity",
+			"		},",
+			"MockedInput",
+			"__registerInput",
+			"__duration",
+			"gameActionRecorder",
+			"GameActionRe",
+			"CalledOnce",
+			"calledOnce",
+			"CalledAt",
+			"calledAt",
+			"notCalled",
+			"inputH",
+			"UserInputHandler",
+			"startRecording",
+			"DefaultUserInput",
+			"Handler",
+			"clearCompletedInputs",
+			"__getInputByCode",
+			"getInputByCode",
+			"		",
+			"fillRect",
+			"clockTick",
+			"timer",
+			"soundManager",
+			"ctx",
+			");",
+			"line",
+			"insert",
+			"shift+enter",
+			"alias"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"->",
+			"",
+			"@",
+			"",
+			"@",
+			"Shoot",
+			"shoot",
+			"games",
+			"inputRecorder",
+			"Once",
+			"once",
+			"At",
+			"at"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 13,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "games/coffee/audio/entity/SoundGenerator.coffee",
+					"settings":
+					{
+						"buffer_size": 1171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "SoundGenerator.coffee",
+							"syntax": "Packages/Coffeescript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "games/common/entity/DestroyableEntity.js",
+					"settings":
+					{
+						"buffer_size": 474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "games/coffee/audio/AudioLoader.coffee",
+					"settings":
+					{
+						"buffer_size": 2439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1480,
+								1480
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Coffeescript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "games/shoot/asset/Assets.js",
+					"settings":
+					{
+						"buffer_size": 770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								770,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "games/coffee/audio/Assets.coffee",
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								55
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Assets.coffee",
+							"syntax": "Packages/Coffeescript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "games/common/input/MouseInput.js",
+					"settings":
+					{
+						"buffer_size": 579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "games/common/input/MouseRecorder.js",
+					"settings":
+					{
+						"buffer_size": 1229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1111,
+								1111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "games/coffee/common/input/MouseInput.coffee",
+					"settings":
+					{
+						"buffer_size": 292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Coffeescript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "games/coffee/common/sprite/SpriteBuilder.coffee",
+					"settings":
+					{
+						"buffer_size": 571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "SpriteBuilder.coffee",
+							"syntax": "Packages/Coffeescript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "games/common/sprite/Sprite.js",
+					"settings":
+					{
+						"buffer_size": 2544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								436,
+								594
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3452,
+								3452
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "games/coffee/common/engine/GameEngine.coffee",
+					"settings":
+					{
+						"buffer_size": 1395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1395,
+								1313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Coffeescript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "games/coffee/shoot/engine/ExtendedEngine.coffee",
+					"settings":
+					{
+						"buffer_size": 940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								661,
+								661
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Coffeescript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "games/shoot/collision/ColliderResolverImpl.js",
+					"settings":
+					{
+						"buffer_size": 2802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2520,
+								2520
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sou",
+				"games/coffee/audio/entity/SoundGenerator.coffee"
+			],
+			[
+				"sq",
+				"games/common/hitbox/SquareHitbox.js"
+			],
+			[
+				"xte",
+				"games/coffee/shoot/engine/ExtendedEngine.coffee"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"mous",
+				"games/common/input/MouseInput.js"
+			],
+			[
+				"mouse",
+				"games/coffee/common/input/MouseInput.coffee"
+			],
+			[
+				"mousei",
+				"games/common/input/MouseInput.js"
+			],
+			[
+				"asset",
+				"games/shoot/asset/Assets.js"
+			],
+			[
+				"au",
+				"games/coffee/audio/AudioLoader.coffee"
+			],
+			[
+				"doni",
+				"games/shoot/enemy/doni/Doni.js"
+			],
+			[
+				"dest",
+				"games/common/entity/DestroyableEntity.js"
+			],
+			[
+				"air",
+				"games/shoot/enemy/AirEnemy.js"
+			],
+			[
+				"audi",
+				"games/coffee/audio/AudioLoader.coffee"
+			],
+			[
+				"load",
+				"games/coffee/shoot/controller/loading/LoadingController.coffee"
+			],
+			[
+				"loadi",
+				"games/shoot/controller/loading/LoadingController.js"
+			],
+			[
+				"shoot",
+				"games/shoot/ShootLoader.js"
+			],
+			[
+				"mousere",
+				"games/common/input/MouseRecorder.js"
+			],
+			[
+				"finpu",
+				"games/common/input/DefaultInput.js"
+			],
+			[
+				"inpu",
+				"games/common/input/InputRecorder.js"
+			],
+			[
+				"audio",
+				"games/audio/AudioLoader.js"
+			],
+			[
+				"audiolo",
+				"games/coffee/audio/AudioLoader.coffee"
+			],
+			[
+				"key",
+				"games/common/input/KeyboardRecorder.js"
+			],
+			[
+				"exte",
+				"games/coffee/shoot/engine/ExtendedEngine.coffee"
+			],
+			[
+				"enginc",
+				"games/common/clock/EngineClock.js"
+			],
+			[
+				"loadic",
+				"games/coffee/shoot/controller/loading/LoadingController.coffee"
+			],
+			[
+				"aulo",
+				"games/audio/AudioLoader.js"
+			],
+			[
+				"",
+				"games/coffee/common/engine/GameEngine.coffee"
+			],
+			[
+				"gamco",
+				"games/coffee/common/engine/GameEngine.coffee"
+			],
+			[
+				"level",
+				"games/shoot/controller/level/LevelController.js"
+			],
+			[
+				"mousre",
+				"games/common/input/MouseRecorder.js"
+			],
+			[
+				"shoload",
+				"games/shoot/ShootLoader.js"
+			],
+			[
+				"engcl",
+				"games/common/clock/EngineClock.js"
+			],
+			[
+				"stats",
+				"games/coffee/shoot/clock/StatsAwareEngineClock.coffee"
+			],
+			[
+				"slicss",
+				"css/slideshow.css"
+			],
+			[
+				"touch",
+				"games/common/input/TouchInputRecorder.js"
+			],
+			[
+				"touchshi",
+				"games/shoot/ship/TouchShipPilot.js"
+			],
+			[
+				"touchi",
+				"games/coffee/common/input/TouchInputRecorder.coffee"
+			],
+			[
+				"touchs",
+				"games/shoot/ship/TouchShipPilot.js"
+			],
+			[
+				"basic",
+				"games/common/input/BasicInputRecorder.js"
+			],
+			[
+				"tou",
+				"games/common/input/TouchInputRecorder.js"
+			],
+			[
+				"ship",
+				"games/shoot/ship/Ship.js"
+			],
+			[
+				"toush",
+				"games/coffee/shoot/ship/TouchShipPilot.coffee"
+			],
+			[
+				"shippi",
+				"games/coffee/shoot/ship/ShipPilot.coffee"
+			],
+			[
+				"bas",
+				"games/common/input/BasicInputRecorder.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"keyb",
+				"games/common/input/KeyboardRecorder.js"
+			],
+			[
+				"loading",
+				"games/coffee/shoot/controller/loading/LoadingController.coffee"
+			],
+			[
+				"usera",
+				"games/common/utils/UserAgent.js"
+			],
+			[
+				"playc",
+				"games/shoot/player/PlayerController.js"
+			],
+			[
+				"toushi",
+				"games/coffee/shoot/ship/TouchShipPilot.coffee"
+			],
+			[
+				"loa",
+				"games/coffee/shoot/controller/loading/LoadingController.coffee"
+			],
+			[
+				"recorfa",
+				"games/shoot/utils/RecorderFactory.js"
+			],
+			[
+				"recorder",
+				"games/common/input/InputRecorder.js"
+			],
+			[
+				"shipcoff",
+				"games/coffee/shoot/ship/ShipPilot.coffee"
+			],
+			[
+				"shipil",
+				"games/shoot/ship/ShipPilot.js"
+			],
+			[
+				"pla",
+				"games/shoot/player/PlayerController.js"
+			],
+			[
+				"plat",
+				"games/shoot/player/PlayerControllerTest.js"
+			],
+			[
+				"shipi",
+				"games/shoot/ship/ShipInputRecorder.js"
+			],
+			[
+				"stand",
+				"games/coffee/common/input/StandardKeyboardRecorder.coffee"
+			],
+			[
+				"invite",
+				"games/coffee/shoot/controller/loading/InviteText.coffee"
+			],
+			[
+				"nyum",
+				"css/nyump.css"
+			],
+			[
+				"touchcoffe",
+				"games/coffee/common/input/TouchInputRecorder.coffee"
+			],
+			[
+				"inputouc",
+				"games/common/input/TouchInputRecorder.js"
+			],
+			[
+				"keyboar",
+				"games/common/input/KeyboardRecorder.js"
+			],
+			[
+				"text",
+				"games/common/text/Text.js"
+			],
+			[
+				"collec",
+				"games/shoot/ship/CollectedPoints.js"
+			],
+			[
+				"packma",
+				".packman"
+			],
+			[
+				"defau",
+				"games/shoot/ship/DefaultShipGun.js"
+			],
+			[
+				"power",
+				"games/shoot/entity/loot/powerup/Power.js"
+			],
+			[
+				"type",
+				"games/shoot/utils/GameType.js"
+			],
+			[
+				"beam",
+				"games/shoot/ship/Beam.js"
+			],
+			[
+				"defsh",
+				"games/shoot/ship/DefaultShipGun.js"
+			],
+			[
+				"explo",
+				"games/shoot/enemy/EnemyExplosionBuilder.js"
+			],
+			[
+				"expls",
+				"games/shoot/ship/ShipExplosionBuilder.js"
+			],
+			[
+				"shootloader",
+				"games/shoot/ShootLoader.js"
+			],
+			[
+				"shipbu",
+				"games/shoot/ship/ShipBullet.js"
+			],
+			[
+				"sort",
+				"games/shoot/entity/EntitySorter.js"
+			],
+			[
+				"eneexpl",
+				"games/shoot/enemy/EnemyExplosionBuilder.js"
+			],
+			[
+				"coin",
+				"games/shoot/entity/loot/coin/Coin.js"
+			],
+			[
+				"coin.",
+				"resources/img/coinAnimated.pdn"
+			],
+			[
+				"coi",
+				"games/shoot/entity/loot/coin/Coin.js"
+			],
+			[
+				"asb",
+				"games/common/sprite/AnimatedSpriteBuilder.js"
+			],
+			[
+				"anims",
+				"games/common/sprite/AnimatedSprite.js"
+			],
+			[
+				"sta",
+				"games/coffee/common/input/StandardKeyboardRecorder.coffee"
+			],
+			[
+				"standardkeyboardrecorder",
+				"games/common/input/StandardKeyboardRecorder.js"
+			],
+			[
+				"loadin",
+				"games/coffee/shoot/controller/loading/LoadingController.coffee"
+			],
+			[
+				"stan",
+				"games/common/input/StandardKeyboardRecorder.js"
+			],
+			[
+				"loac",
+				"games/coffee/shoot/controller/loading/LoadingController.coffee"
+			],
+			[
+				"hoolo",
+				"games/shoot/ShootLoader.js"
+			],
+			[
+				"nyump.css",
+				"css/nyump.css"
+			],
+			[
+				"gamet",
+				"games/coffee/shoot/controller/loading/GameTitle.coffee"
+			],
+			[
+				"anilojs",
+				"games/common/clock/AnimationLoop.js"
+			],
+			[
+				"animjs",
+				"games/common/animation/Animation.js"
+			],
+			[
+				"anicoff",
+				"games/coffee/common/animation/Animation.coffee"
+			],
+			[
+				"base",
+				"games/coffee/common/BaseObject.coffee"
+			],
+			[
+				"baseco",
+				"games/coffee/common/BaseObject.coffee"
+			],
+			[
+				"enginecoff",
+				"games/coffee/common/engine/Engine.coffee"
+			],
+			[
+				"pres",
+				"games/shoot/controller/loading/PressEnter.js"
+			],
+			[
+				"index.htm",
+				"lib/aria/tester/index.html"
+			],
+			[
+				"gat",
+				"games/shoot/utils/GameType.js"
+			],
+			[
+				"engined",
+				"games/shoot/engine/EngineDrawer.js"
+			],
+			[
+				"stat",
+				"games/shoot/Stats.js"
+			],
+			[
+				"groun",
+				"games/shoot/enemy/GroundEnemy.js"
+			],
+			[
+				"vreu",
+				"games/shoot/enemy/vreu/Vreu.js"
+			],
+			[
+				"shi",
+				"games/shoot/ship/Ship.js"
+			],
+			[
+				"shoe",
+				"games/shoot/engine/ShootEngine.js"
+			],
+			[
+				"encl",
+				"games/common/clock/EngineClock.js"
+			],
+			[
+				"shooc",
+				"games/shoot/ShootController.js"
+			],
+			[
+				"watch",
+				"games/watchCoffee.cmd"
+			],
+			[
+				"gncof",
+				"games/commoncoffee/math/GameMath.coffee"
+			],
+			[
+				"cofee",
+				"games/commoncoffee/BaseObject.coffee"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"playr",
+				"games/shoot/player/PlayerController.js"
+			],
+			[
+				"plc",
+				"games/shoot/player/PlayerController.js"
+			],
+			[
+				"player",
+				"games/shoot/player/PlayerController.js"
+			],
+			[
+				"shipc",
+				"nyanshoot/games/nyump/ShipController.js"
+			],
+			[
+				"shic",
+				"nyanshoot/games/nyump/ShipController.js"
+			],
+			[
+				"kere",
+				"games/common/input/KeyboardRecorder.js"
+			],
+			[
+				"plcontr",
+				"games/shoot/player/PlayerController.js"
+			],
+			[
+				"enge",
+				"games/shoot/enemy/generator/ShootEnemyGenerator.js"
+			],
+			[
+				"shootc",
+				"games/shoot/ShootController.js"
+			],
+			[
+				"seng",
+				"games/shoot/engine/ShootEngine.js"
+			],
+			[
+				"enc",
+				"nyanshoot/games/nyump/EnemyController.js"
+			],
+			[
+				"sengin",
+				"games/shoot/engine/ShootEngine.js"
+			],
+			[
+				"reco",
+				"games/shoot/utils/RecorderFactory.js"
+			],
+			[
+				"shipin",
+				"games/shoot/ship/ShipInputRecorder.js"
+			],
+			[
+				"js",
+				"games/shoot/level/jungle/JungleScript.js"
+			],
+			[
+				"groue",
+				"games/nyump/enemy/GroundEnemy.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 336.0,
+	"status_bar_visible": true
+}

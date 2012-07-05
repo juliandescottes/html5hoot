@@ -1,0 +1,40 @@
+application: nyanshoot
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+- url: /lib
+  static_dir: lib
+
+- url: /css
+  static_dir: css
+
+- url: /mockato
+  static_dir: mockato
+
+- url: /games
+  static_dir: games
+
+- url: /resources
+  static_dir: resources
+
+- url: /MainTestSuite\.js
+  static_files: MainTestSuite.js
+  upload: MainTestSuite\.js
+
+- url: /index\.html
+  static_files: index.html
+  upload: index\.html
+
+- url: /test\.html
+  static_files: test.html
+  upload: test\.html
+
+- url: /
+  static_files: index.html
+  upload: index\.html

@@ -1,0 +1,12 @@
+source: .
+destination: ./lib
+visitors:
+    - ./visitors/multipart
+    - uglify
+packages:
+    games.js:
+        files:
+            includes:
+                - games/**/*.js
+            excludes:
+                - games/**/*Test*.js
